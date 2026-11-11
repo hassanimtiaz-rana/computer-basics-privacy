@@ -4,7 +4,7 @@ Computer Basics is provided by Toolify Ai Studio.
 
 ## Learning data
 
-The app stores lesson completion, bookmarks, flashcard review dates, quiz scores, exercise completion, and appearance preferences on your device. Computer Basics has no user account, advertising, or analytics. It does not send your learning data to Toolify Ai Studio.
+The app stores lesson completion, bookmarks, flashcard review dates, quiz scores, exercise completion, the name you enter for your certificate, and appearance preferences on your device. Computer Basics has no user account, advertising, or analytics. It does not send your learning data to Toolify Ai Studio.
 
 ## Practice exercises
 
